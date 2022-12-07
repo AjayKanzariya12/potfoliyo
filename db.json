@@ -1,0 +1,773 @@
+{
+    "Web": [
+        {
+            "id": 1,
+            "title": "Astrology",
+            "desc": "A content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/Web/AstrologyFNL.jpg",
+            "tec": "react",
+            "industry": "Astrology",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 2,
+            "title": "AutoPart",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/AutoPartFNL.jpg",
+            "tec": "angular",
+            "industry": "AutoPart",
+            "url": "https://www.youtube.com/"
+        },
+        {
+            "id": 3,
+            "title": "Blog",
+            "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/BlogFNL.jpg",
+            "tec": "php",
+            "industry": "Blog",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 4,
+            "title": "CarsBikes",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/Web/CarsBikesFNL.jpg",
+            "tec": "ui",
+            "industry": "CarsBikes",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 5,
+            "title": "Ceramic",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/Web/CeramicFNL.jpg",
+            "tec": "react",
+            "industry": "Ceramic",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 6,
+            "title": "Clothing",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/ClothingFNL.jpg",
+            "tec": "react",
+            "industry": "Clothing",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 7,
+            "title": "CrowdFund",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/CrowdFundFNL.jpg",
+            "industry": "CrowdFund",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 8,
+            "title": "Food",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/FoodFNL.jpg",
+            "industry": "Food",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 9,
+            "title": "DatingAppFNL",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/DatingAppFNL.jpg",
+            "industry": "DatingAppFNL",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 10,
+            "title": "Education",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/EducationFNL.jpg",
+            "industry": "Education",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 11,
+            "title": "Furniture",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/FurnitureFNL.jpg",
+            "industry": "FurnitureFNL",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 12,
+            "title": "Grocery",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/GroceryFNL.jpg",
+            "industry": "Grocery",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 13,
+            "title": "Jewelry",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/JewelryFNL.jpg",
+            "industry": "Jewelry",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 14,
+            "title": "Jobs",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/JobsFNL.jpg",
+            "industry": "Jobs",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 15,
+            "title": "MVMP",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/MVMP-FNL.jpg",
+            "industry": "MVMP",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 16,
+            "title": "News",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/NewsFNL.jpg",
+            "industry": "News",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 17,
+            "title": "Pharmacy",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/PharmacyFNL.jpg",
+            "industry": "Pharmacy",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 18,
+            "title": "Portfolio",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Web/PortfolioFNL.jpg",
+            "industry": "Portfolio",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        }
+    ],
+
+    "UI": [
+        {
+            "id": 1,
+            "title": "Accounting",
+            "desc": "A content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/Design/figma/Accounting.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 2,
+            "title": "EZsmart",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/EZsmart.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 3,
+            "title": "Furniture",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/Furniture.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 4,
+            "title": "One Stay",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/One Stay.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 5,
+            "title": "Outbax0",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/Outbax0.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 6,
+            "title": "QR.NEW",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/QR.NEW.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 7,
+            "title": "Stock Market",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/Stock Market.jpg",
+            "tec": "figma",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 8,
+            "title": "Stock Market",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/Design/figma/Stock Market.jpg",
+            "tec": "react",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        }
+    ],
+
+    "App": [
+      {
+        "id": 1,
+        "title": "Astrology",
+        "desc": "A content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+        "img": "assets/img/personal-portfolio/App/Astrology.jpg",
+        "tec": "react",
+        "industry": "Astrology",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 2,
+        "title": "AutoPart",
+        "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Auto Parts.jpg",
+        "tec": "angular",
+        "industry": "AutoPart",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "id": 3,
+        "title": "Blog",
+        "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Blog.jpg",
+        "tec": "php",
+        "industry": "Blog",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 4,
+        "title": "CarsBikes",
+        "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+        "img": "assets/img/personal-portfolio/App/Cab & Taxi.jpg",
+        "tec": "ui",
+        "industry": "CarsBikes",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 5,
+        "title": "Ceramic",
+        "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+        "img": "assets/img/personal-portfolio/App/Ceramic industry.jpg",
+        "tec": "react",
+        "industry": "Ceramic",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 6,
+        "title": "Clothing",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Clothing.jpg",
+        "tec": "react",
+        "industry": "Clothing",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 7,
+        "title": "CrowdFund",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Crowdfunding.jpg",
+        "industry": "CrowdFund",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 8,
+        "title": "Food",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Food.jpg",
+        "industry": "Food",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 9,
+        "title": "DatingAppFNL",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Dating App.jpg",
+        "industry": "DatingAppFNL",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 10,
+        "title": "Education",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Education.jpg",
+        "industry": "Education",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 11,
+        "title": "Furniture",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Furniture.jpg",
+        "industry": "FurnitureFNL",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 12,
+        "title": "Grocery",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Grocery.jpg",
+        "industry": "Grocery",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 13,
+        "title": "Jewelry",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Jewelry.jpg",
+        "industry": "Jewelry",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 14,
+        "title": "Job Recruitment",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Job Recruitment.jpg",
+        "industry": "Jobs",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 15,
+        "title": "Multi Vendor Market Place",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Multi-vendor market place.jpg",
+        "industry": "MVMP",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 16,
+        "title": "News",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/News online magazine.jpg",
+        "industry": "News",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 17,
+        "title": "Pharmacy",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Pharmacy.jpg",
+        "industry": "Pharmacy",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 18,
+        "title": "Real Estate",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Real Estate.jpg",
+        "industry": "Real Estate",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 19,
+        "title": "Spect",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Spect.jpg",
+        "industry": "Spect",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 20,
+        "title": "Sports",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Sports equipment.jpg",
+        "industry": "Sports",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 21,
+        "title": "Toys",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Toys.jpg",
+        "industry": "Toys",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+        "id": 22,
+        "title": "VideoStreaming",
+        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+        "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+        "img": "assets/img/personal-portfolio/App/Video streaming.jpg",
+        "industry": "VideoStreaming",
+        "tec": "react",
+        "url": "https://3waytech.co/"
+    },
+    {
+      "id": 23,
+      "title": "Agriculture App",
+      "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+      "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+      "img": "assets/img/personal-portfolio/App/Agriculture App.jpg",
+      "industry": "Agriculture App",
+      "tec": "react",
+      "url": "https://3waytech.co/"
+  }
+    ],
+
+    "graphic": [
+        {
+            "id": 1,
+            "title": "App Development",
+            "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/showcase/pot5.jpg",
+            "tec": "php",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 2,
+            "title": "graphic design",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/showcase/pot3.jpg",
+            "tec": "ui",
+            "industry": "RealEstate",
+            "url": "https://3waytech.co/"
+        }
+    ],
+
+    "Digital-marketing": [
+        {
+            "id": 1,
+            "title": "Astrology",
+            "desc": "A content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/digital/Astrology.jpg",
+            "tec": "react",
+            "industry": "Astrology",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 2,
+            "title": "AutoPart",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/AutoParts.jpg",
+            "tec": "angular",
+            "industry": "AutoPart",
+            "url": "https://www.youtube.com/"
+        },
+        {
+            "id": 3,
+            "title": "Blog",
+            "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Blog.jpg",
+            "tec": "php",
+            "industry": "Blog",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 4,
+            "title": "CarsBikes",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/digital/Cars&Bike.jpg",
+            "tec": "ui",
+            "industry": "CarsBikes",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 5,
+            "title": "Ceramic",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/digital/Ceramic.jpg",
+            "tec": "react",
+            "industry": "Ceramic",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 6,
+            "title": "Clothing",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Clothing.jpg",
+            "tec": "react",
+            "industry": "Clothing",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 7,
+            "title": "CrowdFund",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/CrowdFunding.jpg",
+            "industry": "CrowdFund",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 8,
+            "title": "Food",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Food.jpg",
+            "industry": "Food",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 9,
+            "title": "DatingAppFNL",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/DatingApp.jpg",
+            "industry": "DatingAppFNL",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 10,
+            "title": "Education",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Education.jpg",
+            "industry": "Education",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 11,
+            "title": "Furniture",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Furniture.jpg",
+            "industry": "FurnitureFNL",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 12,
+            "title": "Grocery",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Grocery.jpg",
+            "industry": "Grocery",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 13,
+            "title": "Jewelry",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Jewelry.jpg",
+            "industry": "Jewelry",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 14,
+            "title": "Jobs",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Job.jpg",
+            "industry": "Jobs",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 15,
+            "title": "Multi Vendor Market Place",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Multi Vendor Market Place.jpg",
+            "industry": "MVMP",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 16,
+            "title": "News",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/News.jpg",
+            "industry": "News",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 17,
+            "title": "Pharmacy",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Pharmacy.jpg",
+            "industry": "Pharmacy",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 18,
+            "title": "Portfolio",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Portfolio.jpg",
+            "industry": "Portfolio",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 19,
+            "title": "Spect",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Spect.jpg",
+            "industry": "Spect",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 20,
+            "title": "Sports",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Sports.jpg",
+            "industry": "Sports",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 21,
+            "title": "Toys",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/Toys.jpg",
+            "industry": "Toys",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 22,
+            "title": "VideoStreaming",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/digital/VideoStreaming.jpg",
+            "industry": "VideoStreaming",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        }
+    ],
+
+    "Developers": [
+        {
+            "id": 1,
+            "title": "App Development",
+            "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Mobile app development is the act or process by which a mobile app is developed for mobile devices.",
+            "img": "assets/img/personal-portfolio/showcase/pot5.jpg",
+            "tec": "php",
+            "industry": "RealEstate",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 2,
+            "title": "graphic design",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "User experience is a person's emotions and attitudes about using a particular product, system or service.",
+            "img": "assets/img/personal-portfolio/showcase/pot3.jpg",
+            "tec": "ui",
+            "industry": "Design",
+            "url": "https://3waytech.co/"
+        }
+    ],
+
+    "profile": {
+        "name": "typicode"
+    }
+}

@@ -1,0 +1,162 @@
+<div id="showcase" class="show-case-section pt-100 pb-70">
+    <div class="container">
+        <div class="row" style="justify-content: center">
+            <!-- <h2>Services I Provide for Clients</h2>
+            <p>This feature is essential for any mobile app, so make sure you have it! These types of notifications can directly alert your user.</p> -->
+            <div class="col-md-4">
+                <div class="select mb-4 mt-2">
+                    <select
+                        (change)="onSelect($event)"
+                        class="cs-select cs-skin-elastic"
+                    >
+                        <option>Select industry</option>
+                        <option
+                            *ngFor="let industry of industryList"
+                            value="{{ industry.id }}"
+                            [selected] = "industry.id == industryId ? 'isSelected' : undefined"
+                        >
+                            {{ industry.name }}
+                        </option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="select mb-4 mt-2"> 
+                        <select (change)="onTecSelect($event)">
+                        <option>Select Technology</option>
+                        <option
+                            *ngFor="let technology of filteredTechnologyList"
+                            value="{{ technology.value }}"
+                            [selected] = "technology.id == tecId ? 'isSelected' : undefined"
+                        >
+                            {{ technology.name }}
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <ng-container *ngFor="let row of filteredData">
+                <div
+                    class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="showcase-card">
+                        <img src="{{ row.img }}" alt="showcase image" />
+                        <div class="showcsae-text" >
+                            <h3>{{ row.title }}</h3>
+                            <p>{{ row.hover }} </p>
+                        </div>
+                        <!-- <div class="shoscase-hover">
+                            <div class="d-table">
+                                <div class="d-table-cell">
+                                    <h3>{{ row.title }}</h3>
+                                    <p>{{ row.desc }}</p>
+                                   <button class="btn btn-primary"><a href="{{row.url}}">blog</a></button> 
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="text-center mb-2">
+                            <button type="button" class="btn btn-danger">Read more</button>
+                          </div>
+                    </div>
+                </div>
+            </ng-container>
+
+            <!-- <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="showcase-card">
+                    <img src="assets/img/personal-portfolio/showcase/pot5.jpg" alt="showcase image">
+                    <div class="showcsae-text">
+                        <h3>Web Development</h3>
+                        <p>Mobile app development is the act or process by which a mobile app is developed for mobile devices.</p>
+                    </div>
+                    <div class="shoscase-hover">
+                        <div class="d-table">
+                            <div class="d-table-cell">
+                                <h3>Web Development</h3>
+                                <p>A Website content writer or web content writer is a person who specializes in
+                                providing relevant content for websites. Every website has a specific target
+                                audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="showcase-card">
+                    <img src="assets/img/personal-portfolio/showcase/pot3.jpg" alt="showcase image">
+                    <div class="showcsae-text">
+                        <h3>App Development</h3>
+                        <p>Mobile app development is the act or process by which a mobile app is developed for mobile devices.</p>
+                    </div>
+                    <div class="shoscase-hover">
+                        <div class="d-table">
+                            <div class="d-table-cell">
+                                <h3>App Development</h3>
+                                <p>A Website content writer or web content writer is a person who specializes in
+                                providing relevant content for websites. Every website has a specific target
+                                audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="showcase-card">
+                    <img src="assets/img/personal-portfolio/showcase/pot4.jpg" alt="showcase image">
+                    <div class="showcsae-text">
+                        <h3>graphic design</h3>
+                        <p>User experience is a person's emotions and attitudes about using a particular product, system or service.</p>
+                    </div>
+                    <div class="shoscase-hover">
+                        <div class="d-table">
+                            <div class="d-table-cell">
+                                <h3>graphic design</h3>
+                                <p>A Website content writer or web content writer is a person who specializes in
+                                providing relevant content for websites. Every website has a specific target
+                                audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="showcase-card">
+                    <img src="assets/img/personal-portfolio/showcase/pot1.jpg" alt="showcase image">
+                    <div class="showcsae-text">
+                        <h3>Digital marketing</h3>
+                        <p>User experience is a person's emotions and attitudes about using a particular product, system or service.</p>
+                    </div>
+                    <div class="shoscase-hover">
+                        <div class="d-table">
+                            <div class="d-table-cell">
+                                <h3>Digital marketing</h3>
+                                <p>A Website content writer or web content writer is a person who specializes in
+                                providing relevant content for websites. Every website has a specific target
+                                audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="showcase-card">
+                    <img src="assets/img/personal-portfolio/showcase/pot6.jpg" alt="showcase image">
+                    <div class="showcsae-text">
+                        <h3>Dedicated Developers</h3>
+                        <p>Mobile app development is the act or process by which a mobile app is developed for mobile devices.</p>
+                    </div>
+                    <div class="shoscase-hover">
+                        <div class="d-table">
+                            <div class="d-table-cell">
+                                <h3>Dedicated Developers</h3>
+                                <p>A Website content writer or web content writer is a person who specializes in
+                                providing relevant content for websites. Every website has a specific target
+                                audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</div>

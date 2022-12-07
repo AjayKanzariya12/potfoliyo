@@ -1,0 +1,65 @@
+<div id="showcase" class="show-case-section pt-100 pb-70">
+    <div class="container">
+        <div class="row" style="justify-content: center">
+            <!-- <h2>Services I Provide for Clients</h2>
+            <p>This feature is essential for any mobile app, so make sure you have it! These types of notifications can directly alert your user.</p> -->
+            <div class="col-md-4">
+                <div class="select mb-4 mt-2">
+                    <select
+                        (change)="onSelect($event)"
+                        class="cs-select cs-skin-elastic"
+                    >
+                        <option>Select industry</option>
+                        <option
+                            *ngFor="let industry of industryList"
+                            value="{{ industry.id }}"
+                            [selected] = "industry.id == industryId ? 'isSelected' : undefined"
+                        >
+                            {{ industry.name }}
+                        </option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="select mb-4 mt-2"> 
+                        <select (change)="onTecSelect($event)">
+                        <option>Select Technology</option>
+                        <option
+                            *ngFor="let technology of filteredTechnologyList"
+                            value="{{ technology.value }}"
+                            [selected] = "technology.id == tecId ? 'isSelected' : undefined"
+                        >
+                            {{ technology.name }}
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <ng-container *ngFor="let row of filteredData">
+                <div
+                    class="col-lg-4 col-md-6 col-sm-6">
+                        <div class="showcase-card">
+                            <img src="{{ row.img }}" alt="showcase image" />
+                            <div class="showcsae-text" >
+                                <h3>{{ row.title }}</h3>
+                                <p>{{ row.hover }} </p>
+                            </div>
+                            <!-- <div class="shoscase-hover">
+                                <div class="d-table">
+                                    <div class="d-table-cell">
+                                        <h3>{{ row.title }}</h3>
+                                        <p>{{ row.desc }}</p>
+                                       <button class="btn btn-primary"><a href="{{row.url}}">blog</a></button> 
+                                    </div>
+                                </div>
+                            </div> -->
+                            <div class="text-center mb-2">
+                                <button type="button" class="btn btn-danger">Read more</button>
+                              </div>
+                        </div>
+                </div>
+            </ng-container>
+        </div>
+    </div>
+</div>
