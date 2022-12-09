@@ -13,7 +13,11 @@
                         <option
                             *ngFor="let industry of industryList"
                             value="{{ industry.id }}"
-                            [selected] = "industry.id == industryId ? 'isSelected' : undefined"
+                            [selected]="
+                                industry.id == industryId
+                                    ? 'isSelected'
+                                    : undefined
+                            "
                         >
                             {{ industry.name }}
                         </option>
@@ -21,13 +25,17 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="select mb-4 mt-2"> 
-                        <select (change)="onTecSelect($event)">
+                <div class="select mb-4 mt-2">
+                    <select (change)="onTecSelect($event)">
                         <option>Select Technology</option>
                         <option
                             *ngFor="let technology of filteredTechnologyList"
                             value="{{ technology.value }}"
-                            [selected] = "technology.id == tecId ? 'isSelected' : undefined"
+                            [selected]="
+                                technology.id == tecId
+                                    ? 'isSelected'
+                                    : undefined
+                            "
                         >
                             {{ technology.name }}
                         </option>
@@ -36,16 +44,18 @@
             </div>
         </div>
         <div class="row">
-            <ng-container *ngFor="let row of filteredData">
-                <div
-                    class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="showcase-card">
-                            <img src="{{ row.img }}" alt="showcase image" />
-                            <div class="showcsae-text" >
-                                <h3>{{ row.title }}</h3>
-                                <p>{{ row.hover }} </p>
-                            </div>
-                            <!-- <div class="shoscase-hover">
+            <ng-container *ngFor="let row of filteredData; index as i">
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="showcase-card">
+                        <img src="{{ row.img }}" alt="showcase image" />
+                        <div class="showcsae-text read-more" style="--line-clamp: 2">
+                            <h3>{{ row.title }}</h3>
+                            <input id="{{i + 1}}" type="checkbox" class="read-more__checkbox" aria-hidden="true">
+                            <p class="read-more__text">{{ row.hover }} </p>
+                            <label for="{{i + 1}}" class="read-more__label btn btn-danger" data-read-more="Read more" 
+                            data-read-less="See less" aria-hidden="true"></label>
+                        </div>
+                        <!-- <div class="shoscase-hover">
                                 <div class="d-table">
                                     <div class="d-table-cell">
                                         <h3>{{ row.title }}</h3>
@@ -54,10 +64,12 @@
                                     </div>
                                 </div>
                             </div> -->
-                            <div class="text-center mb-2">
-                                <button type="button" class="btn btn-danger">Read more</button>
-                              </div>
-                        </div>
+                        <!-- <div class="text-center mb-2">
+                            <button type="button" class="btn btn-danger">
+                                Read more
+                            </button>
+                        </div> -->
+                    </div>
                 </div>
             </ng-container>
         </div>

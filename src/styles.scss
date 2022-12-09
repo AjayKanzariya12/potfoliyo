@@ -673,6 +673,70 @@ p {
 
 }
 
+
+main {
+    width: 100%;
+    max-width: 40rem;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+.read-more {
+    /* You can update this variable directly in the html by adding a style property to the .read-more element */
+    --line-clamp: 3;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .read-more__text {
+    display: -webkit-box;
+    -webkit-line-clamp: var(--line-clamp);
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  .read-more__checkbox {
+    clip: rect(0 0 0 0);
+    clip-path: inset(100%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+  
+  .read-more__checkbox ~ .read-more__label {
+    cursor: pointer;
+    font-size: 0.75em;
+    font-weight: 700;
+    // text-decoration: underline;
+  }
+  
+  /* Don't forget focus and hover styles for accessibility! */
+  .read-more__checkbox:focus ~ .read-more__label {
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+  }
+  
+  .read-more__checkbox:hover ~ .read-more__label {
+    text-decoration: none;
+  }
+  
+  .read-more__checkbox ~ .read-more__label::before {
+    content: attr(data-read-more);
+  }
+  
+  .read-more__checkbox:checked ~ .read-more__label::before {
+    content: attr(data-read-less);
+  }
+  
+  .read-more__checkbox:checked ~ .read-more__text {
+    --line-clamp: none;
+    -webkit-line-clamp: var(--line-clamp);
+  }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {}
 
 @media only screen and (min-width: 1550px) {}
