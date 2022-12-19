@@ -28,6 +28,7 @@ export class WebDevelopmentComponent implements OnInit {
     ngOnInit(): void {
         // this.getAlluser();
         this.api.getdata().subscribe((res) => {
+            console.log(res)
             this.allData = res;
             this.filteredData = res;
             this.industryList = this.industryArray();
@@ -175,7 +176,7 @@ export class WebDevelopmentComponent implements OnInit {
             },
             {
                 id: 15,
-                name: "MVMP",
+                name: "MultiVendorMarketPlace",
             },
             {
                 id: 16,
@@ -195,42 +196,42 @@ export class WebDevelopmentComponent implements OnInit {
 
     tecArray() {
         return [
-            {
-                parentId: 1,
-                id: 1,
-                name: "React js",
-                value: "react",
-            },
-            {
-                parentId: 1,
-                id: 2,
-                name: "UI/UX",
-                value: "ui",
-            },
-            {
-                parentId: 2,
-                id: 3,
-                value: "angular",
-                name: "angular",
-            },
-            {
-                parentId: 2,
-                id: 4,
-                value: "php",
-                name: "PHP",
-            },
-            {
-                parentId: 3,
-                value: "android",
-                id: 5,
-                name: "ahmedabad",
-            },
-            {
-                parentId: 3,
-                id: 6,
-                name: "botad",
-                value: "ios",
-            },
+            // {
+            //     parentId: 1,
+            //     id: 1,
+            //     name: "React js",
+            //     value: "react",
+            // },
+            // {
+            //     parentId: 1,
+            //     id: 2,
+            //     name: "UI/UX",
+            //     value: "ui",
+            // },
+            // {
+            //     parentId: 2,
+            //     id: 3,
+            //     value: "angular",
+            //     name: "angular",
+            // },
+            // {
+            //     parentId: 2,
+            //     id: 4,
+            //     value: "php",
+            //     name: "PHP",
+            // },
+            // {
+            //     parentId: 3,
+            //     value: "android",
+            //     id: 5,
+            //     name: "ahmedabad",
+            // },
+            // {
+            //     parentId: 3,
+            //     id: 6,
+            //     name: "botad",
+            //     value: "ios",
+            // },
         ];
     }
 

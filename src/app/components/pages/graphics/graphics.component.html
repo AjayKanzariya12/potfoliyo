@@ -9,7 +9,7 @@
                         (change)="onSelect($event)"
                         class="cs-select cs-skin-elastic"
                     >
-                        <option>Select industry</option>
+                        <option>Select Logo</option>
                         <option
                             *ngFor="let industry of industryList"
                             value="{{ industry.id }}"
@@ -21,9 +21,9 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="select mb-4 mt-2"> 
+                <div class="select mb-4 mt-2" > 
                         <select (change)="onTecSelect($event)">
-                        <option>Select Technology</option>
+                        <option>Select Type</option>
                         <option
                             *ngFor="let technology of filteredTechnologyList"
                             value="{{ technology.value }}"
@@ -41,12 +41,12 @@
                     class="col-lg-4 col-md-6 col-sm-6">
                     <div class="showcase-card">
                         <img src="{{ row.img }}" alt="showcase image" />
-                        <div class="showcsae-text read-more" style="--line-clamp: 2">
+                        <div class="showcsae-text read-more" style="--line-clamp: 3">
                             <h3>{{ row.title }}</h3>
-                            <input id="{{i + 1}}" type="checkbox" class="read-more__checkbox" aria-hidden="true">
+                            <!-- <input id="{{i + 1}}" type="checkbox" class="read-more__checkbox" aria-hidden="true">
                             <p class="read-more__text">{{ row.hover }} </p>
                             <label for="{{i + 1}}" class="read-more__label btn btn-danger" data-read-more="Read more" 
-                            data-read-less="See less" aria-hidden="true"></label>
+                            data-read-less="See less" aria-hidden="true"></label> -->
                         </div>
                         <!-- <div class="shoscase-hover">
                             <div class="d-table">

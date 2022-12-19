@@ -9,7 +9,7 @@ export class DetailsService {
     constructor(private http: HttpClient) {}
 
     getdata(id: any) {
-        return this.http.get<any>(`http://192.168.29.244:3000/posts/${id}`).pipe(
+        return this.http.get<any>(`https://3waytech.co/portfolio/db.json/posts/${id}`).pipe(
             map((res: any) => {
                 return res;
             })

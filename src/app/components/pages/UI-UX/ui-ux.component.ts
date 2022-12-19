@@ -96,7 +96,10 @@ export class UIUXComponent implements OnInit {
             }&${this.tecName ? "technology=" + this.tecName : ""}`
         );
     }
-
+navigate(){
+    this.router.navigate(['/UI-UX']);
+    console.log('navigated')
+}
     onTecSelect(state) {
         // console.log("here ---- ",this.allData,state.target.value)
 
@@ -119,55 +122,29 @@ export class UIUXComponent implements OnInit {
                 id: 1,
                 name: "Design",
             },
-            {
-                id: 2,
-                name: "RealEstate",
-            },
-            {
-                id: 3,
-                name: "Gujrat",
-            },
+            // {
+            //     id: 2,
+            //     name: "RealEstate",
+            // },
+            
         ];
     }
 
     tecArray() {
         return [
-            {
-                parentId: 1,
-                id: 1,
-                name: "React js",
-                value: "react",
-            },
+            // {
+            //     parentId: 1,
+            //     id: 1,
+            //     name: "React js",
+            //     value: "react",
+            // },
             {
                 parentId: 1,
                 id: 2,
                 name: "figma",
                 value: "figma",
             },
-            {
-                parentId: 2,
-                id: 3,
-                value: "angular",
-                name: "angular",
-            },
-            {
-                parentId: 2,
-                id: 4,
-                value: "php",
-                name: "PHP",
-            },
-            {
-                parentId: 3,
-                value: "android",
-                id: 5,
-                name: "ahmedabad",
-            },
-            {
-                parentId: 3,
-                id: 6,
-                name: "botad",
-                value: "ios",
-            },
+            
         ];
     }
 

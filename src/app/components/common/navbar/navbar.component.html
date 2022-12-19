@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light" [class.active]="classApplied" ngStickyNav stickyClass="sticky-box-shadow" ngStickyNav>
     <div class="container">
-        <a class="navbar-brand" routerLink="/">
-            <img src="assets/img/logo1.png" alt="logo" style="max-width: 7rem;">
+        <a class="navbar-brand" routerLink="/" (click)="onClick('home')">
+            <img src="assets/img/logo12.png" alt="logo" style="max-width: 7rem;">
         </a>
         <button class="navbar-toggler" type="button" (click)="toggleClass()">
             <span class="burger-menu">
@@ -14,24 +14,23 @@
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><span class="nav-link" routerLink="/" (click)="onClick('home')">Home</span></li>
                 <li class="nav-item"><span class="nav-link" (click)="onClick('services')">Services</span></li>
-                <li class="nav-item"><span class="nav-link" (click)="onClick('about')">About Us</span></li>
+                <!-- <li class="nav-item"><span class="nav-link" (click)="onClick('about')">About Us</span></li> -->
                 <li class="nav-item"><span class="nav-link" (click)="onClick('testimonials')">Testimonials</span></li>
-                <li class="nav-item"><span class="nav-link" (click)="onClick('pricing')">Pricing</span></li>
+                <!-- <li class="nav-item"><span class="nav-link" (click)="onClick('pricing')">Pricing</span></li> -->
             </ul>
             <ul class="navbar-nav ms-auto for-responsive">
                 <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('home')">Home</span></li>
                 <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('services')">Services</span></li>
-                <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('about')">About Us</span></li>
-                <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('pricing')">Pricing</span></li>
+                <!-- <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('about')">About Us</span></li>  -->
+                <!-- <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('pricing')">Pricing</span></li> -->
                 <li class="nav-item"><span class="nav-link" (click)="toggleClass(); onClick('testimonials')">Testimonials</span></li>
             </ul>
             <div class="navbar-btn">
-                <a routerLink="/">Get In touch</a>
+                <a href="https://3waytech.co/contacts/">Get In touch</a>
             </div>
         </div>
     </div>
 </nav>
-
 
 
 

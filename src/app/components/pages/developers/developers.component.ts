@@ -92,7 +92,7 @@ export class DevelopersComponent implements OnInit {
 
     Urlrouter() {
         this.router.navigateByUrl(
-            `/Digital-marketing?${
+            `/Dedicated-Developers?${
                 this.industryName ? "industryName=" + this.industryName : ""
             }&${this.tecName ? "technology=" + this.tecName : ""}`
         );
@@ -120,14 +120,11 @@ export class DevelopersComponent implements OnInit {
                 id: 1,
                 name: "Design",
             },
-            {
-                id: 2,
-                name: "RealEstate",
-            },
-            {
-                id: 3,
-                name: "Gujrat",
-            },
+            // {
+            //     id: 2,
+            //     name: "RealEstate",
+            // },
+          
         ];
     }
 

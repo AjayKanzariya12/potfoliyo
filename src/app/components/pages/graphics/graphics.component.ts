@@ -50,8 +50,10 @@ export class GraphicsComponent implements OnInit {
                             })[0];
                         this.tecId = this.tecValueFilter?.id.toString();
                         this.filteredData = this.allData.filter((e) =>
-                            e.tec?.includes(this.tecValueFilter?.value)
+                            e.tec ===this.tecValueFilter?.value
                         );
+                        console.log(this.filteredData)
+                        
                     } else {
                         // console.log(this.filteredTechnologyList);
 
@@ -60,7 +62,7 @@ export class GraphicsComponent implements OnInit {
                         )[0].name;
 
                         this.filteredData = this.allData.filter((e) =>
-                            e.industry?.includes(this.industryName)
+                            e.industry === (this.industryName)
                         );
                     }
                 }
@@ -77,7 +79,7 @@ export class GraphicsComponent implements OnInit {
         this.tecId = null;
 
         this.filteredData = this.allData.filter((e) =>
-            e.industry?.includes(this.industryName)
+            e.industry === (this.industryName)
         );
         // console.log(this.industryName);
 
@@ -99,15 +101,15 @@ export class GraphicsComponent implements OnInit {
     }
 
     onTecSelect(state) {
-        // console.log("here ---- ",this.allData,state.target.value)
+        console.log("here ---- ",state.target.value)
 
         this.filteredData = this.allData.filter((e) =>
-            e.tec?.includes(state.target.value)
+            e.tec === (state.target.value)
         );
         // console.log(this.filteredData);
 
         this.tecName = this.allData.filter((e) =>
-            e.tec?.includes(state.target.value)
+            e.tec === (state.target.value)
         )[0].tec;
         // console.log(this.tecName);
 
@@ -118,57 +120,298 @@ export class GraphicsComponent implements OnInit {
         return [
             {
                 id: 1,
-                name: "Design",
+                name: "Logo",
             },
             {
                 id: 2,
-                name: "RealEstate",
+                name: "Flyer",
             },
-            {
-                id: 3,
-                name: "Gujrat",
-            },
+           
         ];
     }
 
     tecArray() {
         return [
+        
             {
                 parentId: 1,
                 id: 1,
-                name: "React js",
-                value: "react",
+                name: "Astrology",
+                value: "Astrology",
             },
             {
                 parentId: 1,
                 id: 2,
-                name: "UI/UX",
-                value: "ui",
+                name: "AutoParts",
+                value: "AutoParts",
             },
             {
-                parentId: 2,
+                parentId: 1,
                 id: 3,
-                value: "angular",
-                name: "angular",
+                name: "Blog",
+                value: "Blog",
             },
             {
-                parentId: 2,
+                parentId: 1,
                 id: 4,
-                value: "php",
-                name: "PHP",
+                name: "Cab",
+                value: "Cab",
             },
             {
-                parentId: 3,
-                value: "android",
+                parentId: 1,
                 id: 5,
-                name: "ahmedabad",
+                name: "Ceramic",
+                value: "Ceramic",
             },
             {
-                parentId: 3,
+                parentId: 1,
                 id: 6,
-                name: "botad",
-                value: "ios",
+                name: "Cloth",
+                value: "Cloth",
             },
+            {
+                parentId: 1,
+                id: 7,
+                name: "Crowdfunding",
+                value: "Crowdfunding",
+            },
+            {
+                parentId: 1,
+                id: 8,
+                name: "Dating",
+                value: "Dating",
+            },
+            {
+                parentId: 1,
+                id: 9,
+                name: "Education",
+                value: "Education",
+            },
+            {
+                parentId: 1,
+                id: 10,
+                name: "Food",
+                value: "Food",
+            },
+            {
+                parentId: 1,
+                id: 11,
+                name: "Furniture",
+                value: "Furniture",
+            },
+            {
+                parentId: 1,
+                id: 12,
+                name: "Grocery",
+                value: "Grocery",
+            },
+            {
+                parentId: 1,
+                id: 31,
+                name: "Jewelry",
+                value: "jewelry",
+            },
+            {
+                parentId: 1,
+                id: 13,
+                name: "Job",
+                value: "job",
+            },
+            {
+                parentId: 1,
+                id: 14,
+                name: "Magazine",
+                value: "magazine",
+            },
+            {
+                parentId: 1,
+                id: 15,
+                name: "MultiVendor",
+                value: "MultiVendor",
+            },
+            {
+                parentId: 1,
+                id: 16,
+                name: "Pharma",
+                value: "Pharma",
+            },
+            {
+                parentId: 1,
+                id: 17,
+                name: "Portfolio",
+                value: "Portfolio",
+            },
+            {
+                parentId: 1,
+                id: 18,
+                name: "Software",
+                value: "Software",
+            },
+            {
+                parentId: 1,
+                id: 19,
+                name: "Specs",
+                value: "Specs",
+            },
+            {
+                parentId: 1,
+                id: 20,
+                name: "Sports",
+                value: "Sports",
+            },
+            {
+                parentId: 1,
+                id: 21,
+                name: "Toys",
+                value: "Toys",
+            },
+            {
+                parentId: 1,
+                id: 22,
+                name: "VideoStream",
+                value: "VideoStream",
+            },         
+    //___________________________________________________
+
+    {
+        parentId: 2,
+        id: 24,
+        name: "Astrology",
+        value: "Flyer-Astrology",
+    },
+    {
+        parentId: 2,
+        id: 25,
+        name: "AutoParts",
+        value: "Flyer-AutoParts",
+    },
+    {
+        parentId: 2,
+        id: 3,
+        name: "Blog",
+        value: "Flyer-Blog",
+    },
+    {
+        parentId: 2,
+        id: 4,
+        name: "Cab",
+        value: "Flyer-Cab",
+    },
+    {
+        parentId: 2,
+        id: 5,
+        name: "Ceramic",
+        value: "Flyer-Ceramic",
+    },
+    {
+        parentId: 2,
+        id: 6,
+        name: "Cloth",
+        value: "Flyer-Cloth",
+    },
+    {
+        parentId: 2,
+        id: 7,
+        name: "Crowdfunding",
+        value: "Flyer-Crowdfunding",
+    },
+    {
+        parentId: 2,
+        id: 8,
+        name: "Dating",
+        value: "Flyer-Dating",
+    },
+    {
+        parentId: 2,
+        id: 9,
+        name: "Education",
+        value: "Flyer-Education",
+    },
+    {
+        parentId: 2,
+        id: 10,
+        name: "Food",
+        value: "Flyer-Food",
+    },
+    {
+        parentId: 2,
+        id: 11,
+        name: "Furniture",
+        value: "Flyer-Furniture",
+    },
+    {
+        parentId: 2,
+        id: 12,
+        name: "Grocery",
+        value: "Flyer-Grocery",
+    },
+    {
+        parentId: 2,
+        id: 13,
+        name: "Jewelry",
+        value: "Flyer-jewelry",
+    },
+    {
+        parentId: 2,
+        id: 43,
+        name: "Job",
+        value: "Flyer-job",
+    },
+    {
+        parentId: 2,
+        id: 14,
+        name: "Magazine",
+        value: "Flyer-magazine",
+    },
+    {
+        parentId: 2,
+        id: 15,
+        name: "MultiVendor",
+        value: "Flyer-MultiVendor",
+    },
+    {
+        parentId: 2,
+        id: 16,
+        name: "Pharma",
+        value: "Flyer-Pharma",
+    },
+    {
+        parentId: 2,
+        id: 17,
+        name: "Portfolio",
+        value: "Flyer-Portfolio",
+    },
+    {
+        parentId: 2,
+        id: 18,
+        name: "solar",
+        value: "Flyer-solar",
+    },
+    {
+        parentId: 2,
+        id: 19,
+        name: "Specs",
+        value: "Flyer-Specs",
+    },
+    {
+        parentId: 2,
+        id: 20,
+        name: "Sports",
+        value: "Flyer-Sports",
+    },
+    {
+        parentId: 2,
+        id: 21,
+        name: "Toys",
+        value: "Flyer-Toys",
+    },
+    {
+        parentId: 2,
+        id: 22,
+        name: "Streaming",
+        value: "Flyer-Streaming",
+    },
+           
         ];
     }
 

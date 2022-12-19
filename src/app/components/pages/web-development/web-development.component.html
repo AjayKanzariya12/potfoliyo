@@ -9,7 +9,7 @@
                         (change)="onSelect($event)"
                         class="cs-select cs-skin-elastic"
                     >
-                        <option>Select industry</option>
+                        <option>Select Industry</option>
                         
                         <option
                             *ngFor="let industry of industryList"
@@ -42,7 +42,7 @@
                     class="col-lg-4 col-md-6 col-sm-6" >
                     <div class="showcase-card">
                         <img src="{{ row.img }}" alt="showcase image" />
-                        <div class="showcsae-text read-more" style="--line-clamp: 2">
+                        <div class="showcsae-text read-more" style="--line-clamp: 3">
                             <h3>{{ row.title }}</h3>
                             <input id="{{i + 1}}" type="checkbox" class="read-more__checkbox" aria-hidden="true">
                             <p class="read-more__text">{{ row.hover }} </p>

@@ -170,11 +170,11 @@ export class AppDevelopmentComponent implements OnInit {
             },
             {
                 id: 14,
-                name: "Jobs",
+                name: "JobRecruitment",
             },
             {
                 id: 15,
-                name: "MVMP",
+                name: "MultiVendorMarketPlace",
             },
             {
                 id: 16,
@@ -186,7 +186,7 @@ export class AppDevelopmentComponent implements OnInit {
             },
             {
                 id: 18,
-                name: "Real Estate",
+                name: "RealEstate",
             },
             {
                 id: 19,
@@ -206,49 +206,49 @@ export class AppDevelopmentComponent implements OnInit {
             },
             {
                 id:23,
-                name:"Agriculture App"
+                name:"AgricultureApp"
             }
         ];
     }
 
     city() {
         return [
-            {
-                parentId: 1,
-                id: 1,
-                name: "React js",
-                value: "react",
-            },
-            {
-                parentId: 1,
-                id: 2,
-                name: "UI/UX",
-                value: "ui",
-            },
-            {
-                parentId: 2,
-                id: 3,
-                value: "angular",
-                name: "angular",
-            },
-            {
-                parentId: 2,
-                id: 4,
-                value: "php",
-                name: "PHP",
-            },
-            {
-                parentId: 3,
-                value: "android",
-                id: 5,
-                name: "ahmedabad",
-            },
-            {
-                parentId: 3,
-                id: 6,
-                name: "botad",
-                value: "ios",
-            },
+            // {
+            //     parentId: 1,
+            //     id: 1,
+            //     name: "React js",
+            //     value: "react",
+            // },
+            // {
+            //     parentId: 1,
+            //     id: 2,
+            //     name: "UI/UX",
+            //     value: "ui",
+            // },
+            // {
+            //     parentId: 2,
+            //     id: 3,
+            //     value: "angular",
+            //     name: "angular",
+            // },
+            // {
+            //     parentId: 2,
+            //     id: 4,
+            //     value: "php",
+            //     name: "PHP",
+            // },
+            // {
+            //     parentId: 3,
+            //     value: "android",
+            //     id: 5,
+            //     name: "ahmedabad",
+            // },
+            // {
+            //     parentId: 3,
+            //     id: 6,
+            //     name: "botad",
+            //     value: "ios",
+            // },
         ];
     }
 

@@ -1,6 +1,6 @@
 .contact-bg {
     background: {
-        image: url(../../../../../assets/img/personal-portfolio/contact-bg.png);
+        image: url(../../../../../assets/img/personal-portfolio/1.jpg);
         position: center center;
         size: cover;
     };
@@ -48,7 +48,7 @@
             color: var(--whiteColor);
             font-weight: 600;
             padding: 15px 40px;
-            background: #3454d1;
+            background: #069ee8;
             border-radius: 30px;
             margin-top: 20px;
             transition: var(--transition);
@@ -57,8 +57,8 @@
 
             &:hover {
                 background: var(--whiteColor);
-                border: 1px solid #3454d1;
-                color: #3454d1;
+                border: 1px solid #069ee8;
+                color: #069ee8; 
             }
         }
         .list-unstyled {
