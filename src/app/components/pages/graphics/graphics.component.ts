@@ -384,8 +384,8 @@ export class GraphicsComponent implements OnInit {
     {
         parentId: 2,
         id: 18,
-        name: "solar",
-        value: "Flyer-solar",
+        name: "Solar",
+        value: "Flyer-Solar",
     },
     {
         parentId: 2,

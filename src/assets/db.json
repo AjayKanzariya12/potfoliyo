@@ -68,7 +68,7 @@
             "img": "assets/img/personal-portfolio/Web/CrowdFundFNL.jpg",
             "industry": "CrowdFund",
             "tec": "react",
-            "url": "https://3waytech.co/" 
+            "url": "https://3waytech.co/"
         },
         {
             "id": 8,
@@ -256,240 +256,239 @@
     ],
 
     "App": [
-      {
-        "id": 1,
-        "title": "Astrology",
-        "desc": "A content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Get astrological predictions, today's horoscopes, and everything you need to know about zodiac signs, astrology, and more at Monkyaba.",
-        "img": "assets/img/personal-portfolio/App/Astrology.jpg",
-        "tec": "react",
-        "industry": "Astrology",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 2,
-        "title": "Auto Part",
-        "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Autopart is an online shopping store for Car Spare parts. We have a wide range of products like body parts, exhaust pipes, dampers, brake discs, and many more.",
-        "img": "assets/img/personal-portfolio/App/Auto Parts.jpg",
-        "tec": "angular",
-        "industry": "AutoPart",
-        "url": "https://www.youtube.com/"
-    },
-    {
-        "id": 3,
-        "title": "Blog",
-        "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Learn more about app design, app development, marketing, and business strategy. Fromtips on best designs to strategies for getting more downloads.",
-        "img": "assets/img/personal-portfolio/App/Blog.jpg",
-        "tec": "php",
-        "industry": "Blog",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 4,
-        "title": "Cars Bikes",
-        "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Visit us if you to buy a used car or bike in India or want to sell your old car and bike at the best prices. largest online portal to sell and buy second-hand cars and bikes at the best prices.",
-        "img": "assets/img/personal-portfolio/App/Cab & Taxi.jpg",
-        "tec": "ui",
-        "industry": "CarsBikes",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 5,
-        "title": "Ceramic",
-        "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Ceramic is the leading provider of complete home solution products -- Sanitaryware, Tiles,Faucets, Kitchen Sinks, Mirrors, Shower Panels, Shower Enclosures, etc.",
-        "img": "assets/img/personal-portfolio/App/Ceramic industry.jpg",
-        "tec": "react",
-        "industry": "Ceramic",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 6,
-        "title": "Clothing",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Online Clothing Site for Fashion & Lifestyle in India. India's Fashion Expert brings you a variety of footwear, Clothing, Accessories, and lifestyle products.",
-        "img": "assets/img/personal-portfolio/App/Clothing.jpg",
-        "tec": "react",
-        "industry": "Clothing",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 7,
-        "title": "Crowd Fund",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "CrowdFund For Your Treatment on India’s #1 Medical Crowdfunding Website. Dedicated Help. CrowdFun is India's most trusted crowdfunding site. We help raise funds for medical causes.",
-        "img": "assets/img/personal-portfolio/App/Crowdfunding.jpg",
-        "industry": "CrowdFund",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 8,
-        "title": "Food",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad,Delhi, Gurgaon, Nagpur, Jaipur, Coimbatore, Chandigarh, Ahmedabad, and many more.",
-        "img": "assets/img/personal-portfolio/App/Food.jpg",
-        "industry": "Food",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 9,
-        "title": "Dating App FNL",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "With 55 billion matches to date, DatingApp is the world's most popular dating app, making it the place to meet new people.",
-        "img": "assets/img/personal-portfolio/App/Dating App.jpg",
-        "industry": "DatingAppFNL",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 10,
-        "title": "Education",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Education comprehensive e-learning programs for K3, K10, K12, NEET, JEE, UPSC & Bank Exams from India's best teachers. Join us today to fall in love with learning.",
-        "img": "assets/img/personal-portfolio/App/Education.jpg",
-        "industry": "Education",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 11,
-        "title": "Furniture",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Online Furniture Shopping in India: Shop from our online store in India for Furniture, Home Decor, Lamps, Furnishings, Homeware, and more at the best prices.",
-        "img": "assets/img/personal-portfolio/App/Furniture.jpg",
-        "industry": "FurnitureFNL",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 12,
-        "title": "Grocery",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Buy online grocery shopping centers in Udaipur. Shop now at jai4mart. Best online grocery shopping store nearby. Free home delivery is available.",
-        "img": "assets/img/personal-portfolio/App/Grocery.jpg",
-        "industry": "Grocery",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 13,
-        "title": "Jewelry",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Jewelry offers the best quality diamond and gold jewelry with a wide variety of collections. Buy well-designed wedding jewelry at an affordable price.",
-        "img": "assets/img/personal-portfolio/App/Jewelry.jpg",
-        "industry": "Jewelry",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 14,
-        "title": "Job Recruitment",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Free online portal for the Job posting. Top-class talent-hiring options. Hire in the next 48 hours. Recommended by top companies to post open roles for free*. Source from screened resume.",
-        "img": "assets/img/personal-portfolio/App/Job Recruitment.jpg",
-        "industry": "JobRecruitment",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 15,
-        "title": "Multi Vendor Market Place",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes, and e-Gift Cards. Free Shipping & Cash on Delivery are available.",
-        "img": "assets/img/personal-portfolio/App/Multi-vendor market place.jpg",
-        "industry": "MultiVendorMarketPlace",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 16,
-        "title": "News",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "News provides trusted World and UK news as well as local and regional perspectives. Alsoentertainment, business, science, technology, and health news.",
-        "img": "assets/img/personal-portfolio/App/News online magazine.jpg",
-        "industry": "News",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 17,
-        "title": "Pharmacy",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Your one-stop healthcare shop. Exclusive discounts all year round. India Ki Pharmacy. Shopping for medicines online? Order on Pharmacy online medicines & get flat 25% off. Great Offers. Anywhere India Delivery.",
-        "img": "assets/img/personal-portfolio/App/Pharmacy.jpg",
-        "industry": "Pharmacy",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 18,
-        "title": "Real Estate",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Buy, Sell and Rent Properties in India. Welcome to our platform. We have been serving the needs of the real estate industry in India since 2007.",
-        "img": "assets/img/personal-portfolio/App/Real Estate.jpg",
-        "industry": "RealEstate",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 19,
-        "title": "Spect",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Spect is the leading e-commerce portal for eyewear in India. It has revolutionized the eyewear industry in the country with its omnichannel approach.",
-        "img": "assets/img/personal-portfolio/App/Spect.jpg",
-        "industry": "Spect",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 20,
-        "title": "Sports",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Sports is your one-stop shop for buying sports goods online in India. We are B2C now, open for all to buy sports products at an extremely affordable.",
-        "img": "assets/img/personal-portfolio/App/Sports equipment.jpg",
-        "industry": "Sports",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 21,
-        "title": "Toys",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "Toys - India's Largest Online Store for newborn, baby & kids products. Shop from the best range of Toys, Diapers, Clothes, Footwear, Strollers, and many more.",
-        "img": "assets/img/personal-portfolio/App/Toys.jpg",
-        "industry": "Toys",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-        "id": 22,
-        "title": "Video Streaming",
-        "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-        "hover": "What is Video streaming? Video streaming is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and many more.",
-        "img": "assets/img/personal-portfolio/App/Video streaming.jpg",
-        "industry": "VideoStreaming",
-        "tec": "react",
-        "url": "https://3waytech.co/"
-    },
-    {
-      "id": 23,
-      "title": "Agriculture App",
-      "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
-      "hover": "Agri App is an Android-based mobile application. Agri App is a complete solution for crop production and management. It provides the best information on Crops.",
-      "img": "assets/img/personal-portfolio/App/Agriculture App.jpg",
-      "industry": "AgricultureApp",
-      "tec": "react",
-      "url": "https://3waytech.co/"
-  }
+        {
+            "id": 1,
+            "title": "Astrology",
+            "desc": "A content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Get astrological predictions, today's horoscopes, and everything you need to know about zodiac signs, astrology, and more at Monkyaba.",
+            "img": "assets/img/personal-portfolio/App/Astrology.jpg",
+            "tec": "react",
+            "industry": "Astrology",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 2,
+            "title": "Auto Part",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Autopart is an online shopping store for Car Spare parts. We have a wide range of products like body parts, exhaust pipes, dampers, brake discs, and many more.",
+            "img": "assets/img/personal-portfolio/App/Auto Parts.jpg",
+            "tec": "angular",
+            "industry": "AutoPart",
+            "url": "https://www.youtube.com/"
+        },
+        {
+            "id": 3,
+            "title": "Blog",
+            "desc": "A Website content writer or web content writer is a person who specializes inproviding relevant content for websites. Every website has a specific targetaudience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Learn more about app design, app development, marketing, and business strategy. Fromtips on best designs to strategies for getting more downloads.",
+            "img": "assets/img/personal-portfolio/App/Blog.jpg",
+            "tec": "php",
+            "industry": "Blog",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 4,
+            "title": "Cars Bikes",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target  audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Visit us if you to buy a used car or bike in India or want to sell your old car and bike at the best prices. largest online portal to sell and buy second-hand cars and bikes at the best prices.",
+            "img": "assets/img/personal-portfolio/App/Cab & Taxi.jpg",
+            "tec": "ui",
+            "industry": "CarsBikes",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 5,
+            "title": "Ceramic",
+            "desc": "A Website content writer or web content writer is a person who specializes in providing relevant content for websites. Every website has a specific target audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Ceramic is the leading provider of complete home solution products -- Sanitaryware, Tiles,Faucets, Kitchen Sinks, Mirrors, Shower Panels, Shower Enclosures, etc.",
+            "img": "assets/img/personal-portfolio/App/Ceramic industry.jpg",
+            "tec": "react",
+            "industry": "Ceramic",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 6,
+            "title": "Clothing",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Online Clothing Site for Fashion & Lifestyle in India. India's Fashion Expert brings you a variety of footwear, Clothing, Accessories, and lifestyle products.",
+            "img": "assets/img/personal-portfolio/App/Clothing.jpg",
+            "tec": "react",
+            "industry": "Clothing",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 7,
+            "title": "Crowd Fund",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "CrowdFund For Your Treatment on India’s #1 Medical Crowdfunding Website. Dedicated Help. CrowdFun is India's most trusted crowdfunding site. We help raise funds for medical causes.",
+            "img": "assets/img/personal-portfolio/App/Crowdfunding.jpg",
+            "industry": "CrowdFund",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 8,
+            "title": "Food",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad,Delhi, Gurgaon, Nagpur, Jaipur, Coimbatore, Chandigarh, Ahmedabad, and many more.",
+            "img": "assets/img/personal-portfolio/App/Food.jpg",
+            "industry": "Food",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 9,
+            "title": "Dating App FNL",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "With 55 billion matches to date, DatingApp is the world's most popular dating app, making it the place to meet new people.",
+            "img": "assets/img/personal-portfolio/App/Dating App.jpg",
+            "industry": "DatingAppFNL",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 10,
+            "title": "Education",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Education comprehensive e-learning programs for K3, K10, K12, NEET, JEE, UPSC & Bank Exams from India's best teachers. Join us today to fall in love with learning.",
+            "img": "assets/img/personal-portfolio/App/Education.jpg",
+            "industry": "Education",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 11,
+            "title": "Furniture",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Online Furniture Shopping in India: Shop from our online store in India for Furniture, Home Decor, Lamps, Furnishings, Homeware, and more at the best prices.",
+            "img": "assets/img/personal-portfolio/App/Furniture.jpg",
+            "industry": "FurnitureFNL",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 12,
+            "title": "Grocery",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Buy online grocery shopping centers in Udaipur. Shop now at jai4mart. Best online grocery shopping store nearby. Free home delivery is available.",
+            "img": "assets/img/personal-portfolio/App/Grocery.jpg",
+            "industry": "Grocery",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 13,
+            "title": "Jewelry",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Jewelry offers the best quality diamond and gold jewelry with a wide variety of collections. Buy well-designed wedding jewelry at an affordable price.",
+            "img": "assets/img/personal-portfolio/App/Jewelry.jpg",
+            "industry": "Jewelry",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 14,
+            "title": "Job Recruitment",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Free online portal for the Job posting. Top-class talent-hiring options. Hire in the next 48 hours. Recommended by top companies to post open roles for free*. Source from screened resume.",
+            "img": "assets/img/personal-portfolio/App/Job Recruitment.jpg",
+            "industry": "JobRecruitment",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 15,
+            "title": "Multi Vendor Market Place",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes, and e-Gift Cards. Free Shipping & Cash on Delivery are available.",
+            "img": "assets/img/personal-portfolio/App/Multi-vendor market place.jpg",
+            "industry": "MultiVendorMarketPlace",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 16,
+            "title": "News",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "News provides trusted World and UK news as well as local and regional perspectives. Alsoentertainment, business, science, technology, and health news.",
+            "img": "assets/img/personal-portfolio/App/News online magazine.jpg",
+            "industry": "News",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 17,
+            "title": "Pharmacy",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Your one-stop healthcare shop. Exclusive discounts all year round. India Ki Pharmacy. Shopping for medicines online? Order on Pharmacy online medicines & get flat 25% off. Great Offers. Anywhere India Delivery.",
+            "img": "assets/img/personal-portfolio/App/Pharmacy.jpg",
+            "industry": "Pharmacy",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 18,
+            "title": "Real Estate",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Buy, Sell and Rent Properties in India. Welcome to our platform. We have been serving the needs of the real estate industry in India since 2007.",
+            "img": "assets/img/personal-portfolio/App/Real Estate.jpg",
+            "industry": "RealEstate",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 19,
+            "title": "Spect",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Spect is the leading e-commerce portal for eyewear in India. It has revolutionized the eyewear industry in the country with its omnichannel approach.",
+            "img": "assets/img/personal-portfolio/App/Spect.jpg",
+            "industry": "Spect",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 20,
+            "title": "Sports",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Sports is your one-stop shop for buying sports goods online in India. We are B2C now, open for all to buy sports products at an extremely affordable.",
+            "img": "assets/img/personal-portfolio/App/Sports equipment.jpg",
+            "industry": "Sports",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 21,
+            "title": "Toys",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Toys - India's Largest Online Store for newborn, baby & kids products. Shop from the best range of Toys, Diapers, Clothes, Footwear, Strollers, and many more.",
+            "img": "assets/img/personal-portfolio/App/Toys.jpg",
+            "industry": "Toys",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 22,
+            "title": "Video Streaming",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "What is Video streaming? Video streaming is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and many more.",
+            "img": "assets/img/personal-portfolio/App/Video streaming.jpg",
+            "industry": "VideoStreaming",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        },
+        {
+            "id": 23,
+            "title": "Agriculture App",
+            "desc": "A Website content writer or web content writer is a person who specializes in   providing relevant content for websites. Every website has a specific target    audience and requires the most relevant content to attract business. Content should contain keywords aimed towards improving a website's SEO.",
+            "hover": "Agri App is an Android-based mobile application. Agri App is a complete solution for crop production and management. It provides the best information on Crops.",
+            "img": "assets/img/personal-portfolio/App/Agriculture App.jpg",
+            "industry": "AgricultureApp",
+            "tec": "react",
+            "url": "https://3waytech.co/"
+        }
     ],
 
     "graphic": [
-      
         {
             "id": 1,
             "title": "Astrology",
@@ -851,9 +850,6 @@
             "url": "https://3waytech.co/"
         },
 
-
-
-
         {
             "id": 1,
             "title": "Astrology",
@@ -880,7 +876,7 @@
         },
         {
             "id": 4,
-            "title": "Real Estate", 
+            "title": "Real Estate",
             "img": "assets/img/Flyrer/Realestat.jpg",
             "tec": "Flyer-Realestat",
             "industry": "Flyer",
@@ -894,7 +890,7 @@
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         },
-        
+
         {
             "id": 7,
             "title": "Cab",
@@ -967,7 +963,7 @@
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         },
-        
+
         {
             "id": 17,
             "title": "Education",
@@ -983,7 +979,7 @@
             "tec": "Flyer-Education",
             "industry": "Flyer",
             "url": "https://3waytech.co/"
-        },    
+        },
         {
             "id": 20,
             "title": "Food",
@@ -1064,7 +1060,7 @@
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         },
-       
+
         {
             "id": 31,
             "title": "Magazine",
@@ -1105,12 +1101,12 @@
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         },
-       
+
         {
             "id": 38,
             "title": "Solar",
             "img": "assets/img/Flyrer/solar.jpg",
-            "tec": "Flyer-solar",
+            "tec": "Flyer-Solar",
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         },
@@ -1162,7 +1158,7 @@
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         },
-       
+
         {
             "id": 45,
             "title": "Streaming",
@@ -1171,7 +1167,6 @@
             "industry": "Flyer",
             "url": "https://3waytech.co/"
         }
-       
     ],
 
     "Digital-marketing": [
@@ -1408,7 +1403,6 @@
             "industry": "RealEstate",
             "url": "https://3waytech.co/"
         }
-       
     ],
 
     "profile": {

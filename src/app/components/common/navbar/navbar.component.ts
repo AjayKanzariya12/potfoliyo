@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ViewportScroller } from '@angular/common';
+import { Router, Scroll } from '@angular/router';
 
 @Component({
     selector: 'app-navbar',
@@ -7,15 +8,19 @@ import { ViewportScroller } from '@angular/common';
     styleUrls: ['./navbar.component.scss']
 })
 export class NavbarComponent implements OnInit {
+    scroll: any;
 
-    constructor(private viewportScroller: ViewportScroller) {}
+    constructor(private viewportScroller: ViewportScroller ,private router:Router) {}
 
-    public onClick(elementId: string): void { 
-        this.viewportScroller.scrollToAnchor(elementId);
+    public onClick (elementId: string) { 
+     this.viewportScroller.scrollToAnchor(elementId);
     }
 
     ngOnInit() {
+        
     }
+
+    
 
     classApplied = false;
     toggleClass() {
